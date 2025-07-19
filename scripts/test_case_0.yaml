@@ -1,0 +1,50 @@
+- user_id: 0
+  car_type : 'bmw i3'
+  soc: 18.512202902104323
+  origin: 74381
+  destination: 73970
+- user_id: 1
+  car_type : 'bmw i3'
+  soc: 18.7464566032516
+  origin: 74381
+  destination: 73970
+- user_id: 2
+  car_type : 'bmw i3'
+  soc: 18.5
+  origin: 74381
+  destination: 73970
+- user_id: 3
+  car_type : 'bmw i3'
+  soc: 18.95767700528716
+  origin: 74381
+  destination: 73970
+- user_id: 4
+  car_type : 'bmw i3'
+  soc: 18.318659102677544
+  origin: 74381
+  destination: 73970
+- user_id: 5
+  car_type : 'bmw i3'
+  soc: 18.45648569694001
+  origin: 74381
+  destination: 73970
+- user_id: 6
+  car_type : 'bmw i3'
+  soc: 18.044967200671604
+  origin: 74381
+  destination: 73970
+- user_id: 7
+  car_type : 'bmw i3'
+  soc: 18
+  origin: 74381
+  destination: 73970
+- user_id: 8
+  car_type : 'bmw i3'
+  soc: 18.69139128806741
+  origin: 74381
+  destination: 73970
+- user_id: 9
+  car_type : 'bmw i3'
+  soc: 18.30068408701059
+  origin: 74381
+  destination: 73970

@@ -1,0 +1,400 @@
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 0
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 1
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 2
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 3
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 4
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 5
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 6
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 7
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37.24719028490525
+  user_id: 8
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.40415477169321
+  user_id: 9
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 10
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 11
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.18570033739818
+  user_id: 12
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 13
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 14
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 15
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 16
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37.996938779436675
+  user_id: 17
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 18
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 19
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37.11954732462773
+  user_id: 20
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.20821758574643
+  user_id: 21
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 22
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 23
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37.61677692365635
+  user_id: 24
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 25
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.716006189287775
+  user_id: 26
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 27
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37.32604181035123
+  user_id: 28
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.27461160379151
+  user_id: 29
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 30
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 31
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 32
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.43587484970891
+  user_id: 33
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 34
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 35
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.66606407591982
+  user_id: 36
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 37
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 38
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 39
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.4658109226071
+  user_id: 40
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 41
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 42
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 43
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 40.949998220099054
+  user_id: 44
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 45
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.63491529450219
+  user_id: 46
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 47
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37.0703763926687
+  user_id: 48
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 40.11908960155988
+  user_id: 49
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 42.12507947746432
+  user_id: 50
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 51
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 52
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 53
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37.57223617164946
+  user_id: 54
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.35414213915259
+  user_id: 55
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 56
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37.477493593350275
+  user_id: 57
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37.56016626507544
+  user_id: 58
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 59
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 40.39625151210069
+  user_id: 60
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 61
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 62
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.3316377133222
+  user_id: 63
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 64
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 65
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 66
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 67
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37.449725801417195
+  user_id: 68
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.46937312789086
+  user_id: 69
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 70
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 71
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 72
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.17421220707821
+  user_id: 73
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 74
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 75
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 76
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 77
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 39.41466058957169
+  user_id: 78
+  car_type: bmw i3
+- destination: 74680
+  origin: 74381
+  soc: 37
+  user_id: 79
+  car_type: bmw i3

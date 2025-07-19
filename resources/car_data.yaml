@@ -1,0 +1,11 @@
+- id : 'car_01'
+  type : 'bmw i3'
+  year : 2022
+  capacity : 42.2
+  efficiency : 0.2
+
+- id : 'car_02'
+  type : 'Tesla S'
+  year : 2022
+  capacity : 72.2
+  efficiency : 0.3

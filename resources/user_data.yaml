@@ -1,0 +1,1000 @@
+- id: 1
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BRI
+  - Alfamaret
+- id: 2
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 3
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BCA
+  - Rumah Makan Ibu Haji Ciganea
+- id: 4
+  car_type: bmw i3
+  facilities_preferences:
+  - Hokben
+  - Bakso Boedjangan
+- id: 5
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - Bakso Boedjangan
+- id: 6
+  car_type: bmw i3
+  facilities_preferences:
+  - WC Umum
+  - Mc Donald's
+- id: 7
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - Hokben
+- id: 8
+  car_type: bmw i3
+  facilities_preferences:
+  - Solaria
+  - CFC
+- id: 9
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Khas Sunda Cibiuk
+  - CFC
+- id: 10
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - Mc Donald's
+- id: 11
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - Bakso Boedjangan
+- id: 12
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - KFC
+- id: 13
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - Sate Maranggi Haji Yetty
+- id: 14
+  car_type: bmw i3
+  facilities_preferences:
+  - Sate Maranggi Haji Yetty
+  - KFC
+- id: 15
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - ATM BCA
+- id: 16
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - Nasi Padang Sederhana
+- id: 17
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM Mandiri
+  - ATM BCA
+- id: 18
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - Bakso Boedjangan
+- id: 19
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - Masjid
+- id: 20
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Khas Sunda Cibiuk
+  - ATM BRI
+- id: 21
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BCA
+  - ATM Mandiri
+- id: 22
+  car_type: bmw i3
+  facilities_preferences:
+  - Hokben
+  - Subway
+- id: 23
+  car_type: bmw i3
+  facilities_preferences:
+  - Hokben
+  - Bakso Boedjangan
+- id: 24
+  car_type: bmw i3
+  facilities_preferences:
+  - CFC
+  - Mc Donald's
+- id: 25
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - WC Umum
+- id: 26
+  car_type: bmw i3
+  facilities_preferences:
+  - WC Umum
+  - Alfamaret
+- id: 27
+  car_type: bmw i3
+  facilities_preferences:
+  - Indomaret
+  - Solaria
+- id: 28
+  car_type: bmw i3
+  facilities_preferences:
+  - Subway
+  - Masjid
+- id: 29
+  car_type: bmw i3
+  facilities_preferences:
+  - CFC
+  - Masjid
+- id: 30
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM Mandiri
+  - WC Umum
+- id: 31
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Khas Sunda Cibiuk
+  - ATM BRI
+- id: 32
+  car_type: bmw i3
+  facilities_preferences:
+  - WC Umum
+  - Bakso Boedjangan
+- id: 33
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - ATM BRI
+- id: 34
+  car_type: bmw i3
+  facilities_preferences:
+  - Sate Maranggi Haji Yetty
+  - Rumah Makan Sari Kayo
+- id: 35
+  car_type: bmw i3
+  facilities_preferences:
+  - A & W
+  - ATM Mandiri
+- id: 36
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BNI
+  - Bakso Boedjangan
+- id: 37
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - Bakso Boedjangan
+- id: 38
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - Rumah Makan Sari Kayo
+- id: 39
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM Mandiri
+  - ATM BRI
+- id: 40
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - CFC
+- id: 41
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - WC Umum
+- id: 42
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - CFC
+- id: 43
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BNI
+  - Rumah Makan Sari Kayo
+- id: 44
+  car_type: bmw i3
+  facilities_preferences:
+  - CFC
+  - A & W
+- id: 45
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - Indomaret
+- id: 46
+  car_type: bmw i3
+  facilities_preferences:
+  - Solaria
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 47
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM Mandiri
+  - Sate Maranggi Haji Yetty
+- id: 48
+  car_type: bmw i3
+  facilities_preferences:
+  - CFC
+  - Sate Maranggi Haji Yetty
+- id: 49
+  car_type: bmw i3
+  facilities_preferences:
+  - Bakso Boedjangan
+  - Hokben
+- id: 50
+  car_type: bmw i3
+  facilities_preferences:
+  - Indomaret
+  - Rumah Makan Ibu Haji Ciganea
+- id: 51
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - KFC
+- id: 52
+  car_type: bmw i3
+  facilities_preferences:
+  - Bakso Boedjangan
+  - ATM BRI
+- id: 53
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - ATM BRI
+- id: 54
+  car_type: bmw i3
+  facilities_preferences:
+  - A & W
+  - Masjid
+- id: 55
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - Alfamaret
+- id: 56
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - Bakso Boedjangan
+- id: 57
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - Mc Donald's
+- id: 58
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BRI
+  - Mc Donald's
+- id: 59
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - Subway
+- id: 60
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - Nasi Padang Sederhana
+- id: 61
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - Rumah Makan Sari Kayo
+- id: 62
+  car_type: bmw i3
+  facilities_preferences:
+  - Sate Maranggi Haji Yetty
+  - CFC
+- id: 63
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - Indomaret
+- id: 64
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM Mandiri
+  - Alfamaret
+- id: 65
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - Bakso Boedjangan
+- id: 66
+  car_type: bmw i3
+  facilities_preferences:
+  - Bakso Boedjangan
+  - ATM BRI
+- id: 67
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - Hokben
+- id: 68
+  car_type: bmw i3
+  facilities_preferences:
+  - Solaria
+  - KFC
+- id: 69
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - ATM BCA
+- id: 70
+  car_type: bmw i3
+  facilities_preferences:
+  - Subway
+  - Subway
+- id: 71
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - Alfamaret
+- id: 72
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - Hokben
+- id: 73
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - Hokben
+- id: 74
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - WC Umum
+- id: 75
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BNI
+  - Hokben
+- id: 76
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - Alfamaret
+- id: 77
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Khas Sunda Cibiuk
+  - ATM BRI
+- id: 78
+  car_type: bmw i3
+  facilities_preferences:
+  - Subway
+  - Masjid
+- id: 79
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - Alfamaret
+- id: 80
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - Rumah Makan Ibu Haji Ciganea
+- id: 81
+  car_type: bmw i3
+  facilities_preferences:
+  - Indomaret
+  - Subway
+- id: 82
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - A & W
+- id: 83
+  car_type: bmw i3
+  facilities_preferences:
+  - Indomaret
+  - Subway
+- id: 84
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - CFC
+- id: 85
+  car_type: bmw i3
+  facilities_preferences:
+  - Solaria
+  - Solaria
+- id: 86
+  car_type: bmw i3
+  facilities_preferences:
+  - Hokben
+  - Rumah Makan Ibu Haji Ciganea
+- id: 87
+  car_type: bmw i3
+  facilities_preferences:
+  - Bakso Boedjangan
+  - KFC
+- id: 88
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - ATM BNI
+- id: 89
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - Solaria
+- id: 90
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - Rumah Makan Ibu Haji Ciganea
+- id: 91
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - Alfamaret
+- id: 92
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - Subway
+- id: 93
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Khas Sunda Cibiuk
+  - WC Umum
+- id: 94
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - CFC
+- id: 95
+  car_type: bmw i3
+  facilities_preferences:
+  - Solaria
+  - ATM BRI
+- id: 96
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - Mc Donald's
+- id: 97
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - WC Umum
+- id: 98
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Khas Sunda Cibiuk
+  - Indomaret
+- id: 99
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - Nasi Padang Sederhana
+- id: 100
+  car_type: bmw i3
+  facilities_preferences:
+  - CFC
+  - Rumah Makan Sari Kayo
+- id: 101
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - ATM BNI
+- id: 102
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - WC Umum
+- id: 103
+  car_type: bmw i3
+  facilities_preferences:
+  - WC Umum
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 104
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BCA
+  - Mc Donald's
+- id: 105
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - ATM BCA
+- id: 106
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - KFC
+- id: 107
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - Subway
+- id: 108
+  car_type: bmw i3
+  facilities_preferences:
+  - A & W
+  - Hokben
+- id: 109
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM Mandiri
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 110
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - ATM BCA
+- id: 111
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BNI
+  - ATM BNI
+- id: 112
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - Rumah Makan Ibu Haji Ciganea
+- id: 113
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - Hokben
+- id: 114
+  car_type: bmw i3
+  facilities_preferences:
+  - Subway
+  - Mc Donald's
+- id: 115
+  car_type: bmw i3
+  facilities_preferences:
+  - Subway
+  - Alfamaret
+- id: 116
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - Alfamaret
+- id: 117
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BRI
+  - KFC
+- id: 118
+  car_type: bmw i3
+  facilities_preferences:
+  - Bakso Boedjangan
+  - Indomaret
+- id: 119
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - A & W
+- id: 120
+  car_type: bmw i3
+  facilities_preferences:
+  - CFC
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 121
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BCA
+  - Nasi Padang Sederhana
+- id: 122
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - ATM Mandiri
+- id: 123
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BCA
+  - ATM BRI
+- id: 124
+  car_type: bmw i3
+  facilities_preferences:
+  - Solaria
+  - Alfamaret
+- id: 125
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM Mandiri
+  - Rumah Makan Sari Kayo
+- id: 126
+  car_type: bmw i3
+  facilities_preferences:
+  - Sate Maranggi Haji Yetty
+  - ATM BRI
+- id: 127
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BNI
+  - KFC
+- id: 128
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BCA
+  - Hokben
+- id: 129
+  car_type: bmw i3
+  facilities_preferences:
+  - Sate Maranggi Haji Yetty
+  - Mc Donald's
+- id: 130
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - Indomaret
+- id: 131
+  car_type: bmw i3
+  facilities_preferences:
+  - Hokben
+  - Hokben
+- id: 132
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - Mc Donald's
+- id: 133
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - Nasi Padang Sederhana
+- id: 134
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - ATM BNI
+- id: 135
+  car_type: bmw i3
+  facilities_preferences:
+  - Bakso Boedjangan
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 136
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - ATM BNI
+- id: 137
+  car_type: bmw i3
+  facilities_preferences:
+  - CFC
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 138
+  car_type: bmw i3
+  facilities_preferences:
+  - A & W
+  - Rumah Makan Sari Kayo
+- id: 139
+  car_type: bmw i3
+  facilities_preferences:
+  - WC Umum
+  - ATM BNI
+- id: 140
+  car_type: bmw i3
+  facilities_preferences:
+  - CFC
+  - Sate Maranggi Haji Yetty
+- id: 141
+  car_type: bmw i3
+  facilities_preferences:
+  - Sate Maranggi Haji Yetty
+  - Rumah Makan Sari Kayo
+- id: 142
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - ATM BCA
+- id: 143
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - Solaria
+- id: 144
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BRI
+  - Rumah Makan Sari Kayo
+- id: 145
+  car_type: bmw i3
+  facilities_preferences:
+  - Indomaret
+  - ATM BRI
+- id: 146
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BNI
+  - ATM BNI
+- id: 147
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - CFC
+- id: 148
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BCA
+  - ATM BCA
+- id: 149
+  car_type: bmw i3
+  facilities_preferences:
+  - Subway
+  - ATM BCA
+- id: 150
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BRI
+  - ATM BRI
+- id: 151
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BRI
+  - Hokben
+- id: 152
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 153
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - Sate Maranggi Haji Yetty
+- id: 154
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - Mc Donald's
+- id: 155
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BRI
+  - Subway
+- id: 156
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - Rumah Makan Sari Kayo
+- id: 157
+  car_type: bmw i3
+  facilities_preferences:
+  - Subway
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 158
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM Mandiri
+  - Mc Donald's
+- id: 159
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - Masjid
+- id: 160
+  car_type: bmw i3
+  facilities_preferences:
+  - Hokben
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 161
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - Indomaret
+- id: 162
+  car_type: bmw i3
+  facilities_preferences:
+  - Bakso Boedjangan
+  - Mc Donald's
+- id: 163
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Khas Sunda Cibiuk
+  - KFC
+- id: 164
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Sari Kayo
+  - ATM BNI
+- id: 165
+  car_type: bmw i3
+  facilities_preferences:
+  - Sate Maranggi Haji Yetty
+  - Sate Maranggi Haji Yetty
+- id: 166
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM Mandiri
+  - ATM BRI
+- id: 167
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - ATM BRI
+- id: 168
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - Nasi Padang Sederhana
+- id: 169
+  car_type: bmw i3
+  facilities_preferences:
+  - Subway
+  - Subway
+- id: 170
+  car_type: bmw i3
+  facilities_preferences:
+  - Sate Maranggi Haji Yetty
+  - Masjid
+- id: 171
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - Solaria
+- id: 172
+  car_type: bmw i3
+  facilities_preferences:
+  - Alfamaret
+  - Masjid
+- id: 173
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 174
+  car_type: bmw i3
+  facilities_preferences:
+  - WC Umum
+  - Hokben
+- id: 175
+  car_type: bmw i3
+  facilities_preferences:
+  - WC Umum
+  - ATM BCA
+- id: 176
+  car_type: bmw i3
+  facilities_preferences:
+  - CFC
+  - Subway
+- id: 177
+  car_type: bmw i3
+  facilities_preferences:
+  - A & W
+  - Nasi Padang Sederhana
+- id: 178
+  car_type: bmw i3
+  facilities_preferences:
+  - Indomaret
+  - Rumah Makan Khas Sunda Cibiuk
+- id: 179
+  car_type: bmw i3
+  facilities_preferences:
+  - WC Umum
+  - ATM Mandiri
+- id: 180
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BNI
+  - CFC
+- id: 181
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - Mc Donald's
+- id: 182
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BCA
+  - CFC
+- id: 183
+  car_type: bmw i3
+  facilities_preferences:
+  - A & W
+  - Masjid
+- id: 184
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - Nasi Padang Sederhana
+- id: 185
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BRI
+  - Subway
+- id: 186
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - CFC
+- id: 187
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - KFC
+- id: 188
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - ATM Mandiri
+- id: 189
+  car_type: bmw i3
+  facilities_preferences:
+  - KFC
+  - Indomaret
+- id: 190
+  car_type: bmw i3
+  facilities_preferences:
+  - ATM BRI
+  - Alfamaret
+- id: 191
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - Rumah Makan Sari Kayo
+- id: 192
+  car_type: bmw i3
+  facilities_preferences:
+  - Rumah Makan Ibu Haji Ciganea
+  - Hokben
+- id: 193
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - Mc Donald's
+- id: 194
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - Subway
+- id: 195
+  car_type: bmw i3
+  facilities_preferences:
+  - Masjid
+  - Indomaret
+- id: 196
+  car_type: bmw i3
+  facilities_preferences:
+  - Nasi Padang Sederhana
+  - WC Umum
+- id: 197
+  car_type: bmw i3
+  facilities_preferences:
+  - Mc Donald's
+  - A & W
+- id: 198
+  car_type: bmw i3
+  facilities_preferences:
+  - WC Umum
+  - Rumah Makan Sari Kayo
+- id: 199
+  car_type: bmw i3
+  facilities_preferences:
+  - WC Umum
+  - Rumah Makan Sari Kayo
+- id: 200
+  car_type: bmw i3
+  facilities_preferences:
+  - A & W
+  - ATM BRI
