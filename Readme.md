@@ -45,11 +45,16 @@ docker run -d --name emqx \
 ### Testing Guide
 1. Go to Root Project
 2. Restart all terminal
-3. Run bash Scripts
+3. Open terminal 1
 ```bash
-./run_component.sh
+python -m bridge.mqtt_redis clear
 ```
-4. Run simulation scripts
+3. Open terminal 2, use genetic for GA optimizarion, or pso for PSO optimization
+```bash
+python -m run_agent.run_agent genetic
+```
+4. Open terminal 3
+5. Run simulation scripts
 
 ## List of simulation scripts
 ### NFRT-01
