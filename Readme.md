@@ -83,4 +83,5 @@ python -m run_agent.run_agent [genetic | pso]
 7. Tunggu hingga terminal 3 selesai berjalan, atau ketika tidak ada perubahan tampilan selama lebih dari 10 menit matikan terminal 3
 8. Maka akan muncul ringkasan proses simulasi
 9. Visualisasi dalam bentuk hasil disimpan pada folder plots pada bagian root directory
+10. Stop semua terminal, dan jalankan ulang untuk skenario berbeda
 
