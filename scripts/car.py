@@ -62,6 +62,7 @@ class Car:
         self.total_of_charge_cost = []
         self.total_of_charge_time = []
         self.total_of_waiting_time = []
+        self.satisfied_facilities = []
         self.mqtt_client = mqtt.Client(client_id=id)
         self.mqtt_client.on_message = self._on_mqtt_message
         self.mqtt_client.on_connect = self._on_mqtt_connect
@@ -71,7 +72,7 @@ class Car:
         self.env.process(self._status_reporter())
         # Start driving process if environment is provided
         if self.env and self.origin and self.dest and self.G:
-            delay = 300 * int(self.id) / self.time_factor          
+            delay = 600 * int(self.id) / self.time_factor          
             self.env.process(self._delayed_start(delay))
 
     def _delayed_start(self, delay: float):
@@ -434,9 +435,9 @@ class Car:
             self.total_of_waiting_time.append(wait_seconds_to_start * self.time_factor) 
             arrive_time = self.env.now
             if wait_seconds_to_start > 0:
-                logger.info(f"[Car {self.id}] Waiting for {wait_seconds_to_start:.2f} seconds until scheduled charging starts.")
+                logger.info(f"[Car {self.id}] Waiting for {wait_seconds_to_start* self.time_factor:.2f} seconds until scheduled charging starts.")
                 yield self.env.timeout(wait_seconds_to_start)
-            logger.info(f"[Car {self.id}] Waiting for {wait_seconds_to_start:.2f} seconds until scheduled charging starts.")
+            logger.info(f"[Car {self.id}] Waiting for {wait_seconds_to_start * self.time_factor:.2f} seconds until scheduled charging starts.")
 
             # --- Actual Charging Logic ---
             # Calculate actual possible charging duration
@@ -445,7 +446,7 @@ class Car:
                 yield self.env.timeout(20)
             
             wait_seconds_to_start = max(0.0, self.env.now - arrive_time)
-            logger.info(f"[Car {self.id}] Waiting again for {wait_seconds_to_start:.2f} seconds until scheduled charging starts.")
+            logger.info(f"[Car {self.id}] Waiting again for {wait_seconds_to_start * self.time_factor:.2f} seconds until scheduled charging starts.")
 
             self.total_of_waiting_time.append(wait_seconds_to_start * self.time_factor) 
             # Time remaining in scheduled slot, from current simulation time
@@ -499,6 +500,9 @@ class Car:
                 charged_energy += energy_gain_this_step
 
                 yield self.env.timeout(time_to_yield)
+            sat = sum([ 1 for fac in self.facilities_preference if fac in cs.facilities])/2 if self.facilities_preference else 1
+
+            self.satisfied_facilities = sat
             thisPort.isAvailable = True
             # Update final stats after charging completes
             self.last_charging_node = node_id
@@ -596,7 +600,7 @@ class Car:
         self.mqtt_client.publish(topic=f"cs/status/{cs_id}/{port_id}",
                                  payload=json.dumps({
                                      "time" : self.env.now,
-                                    "isCharging" : False,
+                                    "isCharging" : True,
                                  }))
         
     def stop_charging_report(self,cs_id, port_id, cars_served:int, total_energy_delivered:float, total_revenue:int):
@@ -661,7 +665,8 @@ class Car:
                                         "total_of_charge_cost" : self.total_of_charge_cost,
                                         "total_of_charge_time" : self.total_of_charge_time,
                                         "total_of_waiting_time" : self.total_of_waiting_time,
-                                        "estimated_energy" : self.consume_energy(20, nx.shortest_path_length(self.G, self.origin, self.dest, 'length'))
+                                        "estimated_energy" : self.consume_energy(20, nx.shortest_path_length(self.G, self.origin, self.dest, 'length')),
+                                        "satisfied_facilities" : self.satisfied_facilities
                                  })
                                  )
         

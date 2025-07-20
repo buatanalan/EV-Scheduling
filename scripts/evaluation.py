@@ -233,7 +233,7 @@ class EnhancedChargingEvaluator:
             car.final_soc = payload.get("final_soc", car.final_soc)
             car.energy_consumed_driving = car.initial_soc + sum(car.total_of_charge_energy) - car.final_soc
             car.battery_depleted = payload.get("battery_depleted", car.battery_depleted)
-            car.satisfied_facilities = payload.get("satisfied_facilities", car.satisfied_facilities)
+            car.satisfied_facilities = np.mean(payload.get("satisfied_facilities", car.satisfied_facilities))
             car.assigned_stations = payload.get("assigned_stations", car.assigned_stations)
             if car.isFinish:
                 car.estimated_energy = payload.get("estimated_energy", 0)
@@ -316,6 +316,8 @@ class EnhancedChargingEvaluator:
                     for i in range(len(history) - 1):
                         start_time_segment, is_occupied = history[i]
                         end_time_segment = history[i+1][0]
+                        print(is_occupied)
+                        print(start_time_segment, end_time_segment)
                         # Clamp times to simulation start/end for accurate overall utilization
                         segment_start = max(start_time_segment, self.simulation_start_time)
                         segment_end = min(end_time_segment, self.simulation_end_time)

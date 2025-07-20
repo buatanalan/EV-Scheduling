@@ -48,3 +48,53 @@
   soc: 18.30068408701059
   origin: 74381
   destination: 73970
+- user_id: 10
+  car_type : 'bmw i3'
+  soc: 18.512202902104323
+  origin: 74381
+  destination: 73970
+- user_id: 11
+  car_type : 'bmw i3'
+  soc: 18.7464566032516
+  origin: 74381
+  destination: 73970
+- user_id: 12
+  car_type : 'bmw i3'
+  soc: 18.5
+  origin: 74381
+  destination: 73970
+- user_id: 13
+  car_type : 'bmw i3'
+  soc: 18.95767700528716
+  origin: 74381
+  destination: 73970
+- user_id: 14
+  car_type : 'bmw i3'
+  soc: 18.318659102677544
+  origin: 74381
+  destination: 73970
+- user_id: 15
+  car_type : 'bmw i3'
+  soc: 18.45648569694001
+  origin: 74381
+  destination: 73970
+- user_id: 16
+  car_type : 'bmw i3'
+  soc: 18.044967200671604
+  origin: 74381
+  destination: 73970
+- user_id: 17
+  car_type : 'bmw i3'
+  soc: 18
+  origin: 74381
+  destination: 73970
+- user_id: 18
+  car_type : 'bmw i3'
+  soc: 18.69139128806741
+  origin: 74381
+  destination: 73970
+- user_id: 19
+  car_type : 'bmw i3'
+  soc: 18.30068408701059
+  origin: 74381
+  destination: 73970

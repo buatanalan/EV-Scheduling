@@ -351,7 +351,7 @@ class EnhancedAgent:
             distance = nx.shortest_path_length(self.G, current_node, request.dest, weight='length')
         except (nx.NetworkXNoPath, KeyError):
             return 
-        energy_required = self._calculate_energy_consumption(distance)
+        energy_required = self._calculate_energy_consumption(distance) + 2
         if request.soc > energy_required:
             return None
         for cs in cs_along_route:
