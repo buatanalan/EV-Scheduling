@@ -80,7 +80,6 @@ class EvaluatedSimulationRunner:
             from scripts.car import Car
         else:
             from scripts.car_2 import Car
-
         if users_config:
 
             for user_config in users_config:
@@ -91,8 +90,7 @@ class EvaluatedSimulationRunner:
                         if car_data.get("type") == "bmw i3":
                             break
 
-
-                    user_raw_data = r.hgetall(f'user:{user_config['user_id']}:info')
+                    user_raw_data = r.hgetall(f"user:{user_config.get('user_id')}:info")
                     user = {k.decode(): v.decode() for k, v in user_raw_data.items()}
                     car = Car(
                         id=str(user_config["user_id"]),
@@ -111,7 +109,7 @@ class EvaluatedSimulationRunner:
                     print(f" Failed to create car {user_config['user_id']}: {e}")
                 
     def run_simulation_with_evaluation(self, cars_config_path, schedule):
-
+        print(1)
         try:
             print("Starting Evaluated Simulation")
 
